@@ -1,1 +1,3 @@
-gui3
+gui3{
+add-search
+}
