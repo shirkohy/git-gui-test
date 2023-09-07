@@ -1,4 +1,5 @@
 gui2{
 add-notif
 add-extra-notif (edit)
+add-notif-important
 }
